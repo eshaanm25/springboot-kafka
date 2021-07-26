@@ -19,7 +19,7 @@ A Kafka Producer and Consumer implementation coded in Spring Boot. The Producer 
 ## How to run 
 
 1. Download the repository to your local machine with the following command
-    git clone https://github.com/eshaanm25/springboot-kafka
+   `git clone https://github.com/eshaanm25/springboot-kafka`
 4. Use IntelliJ, Eclipse, or other IDE to install Maven dependencies and run the program
 5. Use Postman or any other API tool to make a JSON formatted POST request to the server hosted by Spring Boot. 
 
